@@ -1,0 +1,18 @@
+Fitter Status : Successful - Wed May  3 22:58:45 2023
+Quartus Prime Version : 22.1std.0 Build 915 10/25/2022 SC Lite Edition
+Revision Name : proc
+Top-level Entity Name : proc
+Family : MAX 10
+Device : 10M50DAF484C7G
+Timing Models : Final
+Total logic elements : 263 / 49,760 ( < 1 % )
+    Total combinational functions : 198 / 49,760 ( < 1 % )
+    Dedicated logic registers : 180 / 49,760 ( < 1 % )
+Total registers : 180
+Total pins : 52 / 360 ( 14 % )
+Total virtual pins : 0
+Total memory bits : 0 / 1,677,312 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 288 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 2 ( 0 % )

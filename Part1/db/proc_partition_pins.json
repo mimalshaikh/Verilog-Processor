@@ -1,0 +1,217 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Done",
+					"strict" : false
+				},
+				{
+					"name" : "rT0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "rT0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "rT0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "rT0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "rT0[4]",
+					"strict" : false
+				},
+				{
+					"name" : "rT0[5]",
+					"strict" : false
+				},
+				{
+					"name" : "rT0[6]",
+					"strict" : false
+				},
+				{
+					"name" : "rT0[7]",
+					"strict" : false
+				},
+				{
+					"name" : "rT0[8]",
+					"strict" : false
+				},
+				{
+					"name" : "rT0[9]",
+					"strict" : false
+				},
+				{
+					"name" : "rT0[10]",
+					"strict" : false
+				},
+				{
+					"name" : "rT0[11]",
+					"strict" : false
+				},
+				{
+					"name" : "rT0[12]",
+					"strict" : false
+				},
+				{
+					"name" : "rT0[13]",
+					"strict" : false
+				},
+				{
+					"name" : "rT0[14]",
+					"strict" : false
+				},
+				{
+					"name" : "rT0[15]",
+					"strict" : false
+				},
+				{
+					"name" : "rT1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "rT1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "rT1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "rT1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "rT1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "rT1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "rT1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "rT1[7]",
+					"strict" : false
+				},
+				{
+					"name" : "rT1[8]",
+					"strict" : false
+				},
+				{
+					"name" : "rT1[9]",
+					"strict" : false
+				},
+				{
+					"name" : "rT1[10]",
+					"strict" : false
+				},
+				{
+					"name" : "rT1[11]",
+					"strict" : false
+				},
+				{
+					"name" : "rT1[12]",
+					"strict" : false
+				},
+				{
+					"name" : "rT1[13]",
+					"strict" : false
+				},
+				{
+					"name" : "rT1[14]",
+					"strict" : false
+				},
+				{
+					"name" : "rT1[15]",
+					"strict" : false
+				},
+				{
+					"name" : "Resetn",
+					"strict" : false
+				},
+				{
+					"name" : "DIN[15]",
+					"strict" : false
+				},
+				{
+					"name" : "Clock",
+					"strict" : false
+				},
+				{
+					"name" : "DIN[14]",
+					"strict" : false
+				},
+				{
+					"name" : "Run",
+					"strict" : false
+				},
+				{
+					"name" : "DIN[10]",
+					"strict" : false
+				},
+				{
+					"name" : "DIN[12]",
+					"strict" : false
+				},
+				{
+					"name" : "DIN[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DIN[13]",
+					"strict" : false
+				},
+				{
+					"name" : "DIN[9]",
+					"strict" : false
+				},
+				{
+					"name" : "DIN[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DIN[11]",
+					"strict" : false
+				},
+				{
+					"name" : "DIN[2]",
+					"strict" : false
+				},
+				{
+					"name" : "DIN[3]",
+					"strict" : false
+				},
+				{
+					"name" : "DIN[4]",
+					"strict" : false
+				},
+				{
+					"name" : "DIN[5]",
+					"strict" : false
+				},
+				{
+					"name" : "DIN[6]",
+					"strict" : false
+				},
+				{
+					"name" : "DIN[7]",
+					"strict" : false
+				},
+				{
+					"name" : "DIN[8]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

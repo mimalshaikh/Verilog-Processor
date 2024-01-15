@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Wed May  3 22:58:01 2023
+Quartus Prime Version : 22.1std.0 Build 915 10/25/2022 SC Lite Edition
+Revision Name : proc
+Top-level Entity Name : proc
+Family : MAX 10
+Total logic elements : 325
+    Total combinational functions : 197
+    Dedicated logic registers : 180
+Total registers : 180
+Total pins : 52
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0
